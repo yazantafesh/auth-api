@@ -27,11 +27,11 @@ Polished and Complete Developer Friendly README.md at the root of your repo
 
 ## Links
 
-Heroku Link: https://basic-auth-yazan.herokuapp.com/
+Heroku Link: https://auth-api-yazan.herokuapp.com/
 
 Github Actions: https://github.com/yazantafesh/auth-api/actions
 
-Pull Request: https://github.com/yazantafesh/basic-auth/pull/1
+Pull Request: https://github.com/yazantafesh/auth-api/pull/1
 
 ## UML
 
